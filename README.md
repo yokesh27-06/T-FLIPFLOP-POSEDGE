@@ -59,3 +59,4 @@ endmodule
 ![Screenshot 2024-12-10 133519](https://github.com/user-attachments/assets/79c3effd-cef4-4954-8ebf-a95b6addcf30)
 
 **RESULTS**
+The t-flipflop are the output is verified.
